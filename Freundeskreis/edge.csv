@@ -1,0 +1,5 @@
+from,to,weight,duration,relationship
+Ego,Lisa,3,1,5
+Ego,Luca,4,1,6
+Ego,Maria,2,3,4
+Ego,Jil,2,2,4
